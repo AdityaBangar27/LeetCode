@@ -5,7 +5,7 @@ class Solution {
         int right = arr.length - 1;
         int n = right;
 
-        int[] newArray = new int[arr.length];
+        int newArray[] = new int[arr.length];
 
         while (left < right) {
 
