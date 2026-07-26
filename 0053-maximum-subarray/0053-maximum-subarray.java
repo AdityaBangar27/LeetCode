@@ -18,6 +18,9 @@ class Solution {
 
         for (int i = 1; i < nums.length; i++) {
 
+
+            //we can also use Math.max(x,y)
+
             if (currentSum + nums[i] > nums[i]) {
                 currentSum = currentSum + nums[i];
             } else {
