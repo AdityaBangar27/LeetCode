@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/AdityaBangar27/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/AdityaBangar27/LeetCode/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/AdityaBangar27/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [2390-removing-stars-from-a-string](https://github.com/AdityaBangar27/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/AdityaBangar27/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Sorting
 |  |
@@ -110,4 +111,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0177-nth-highest-salary](https://github.com/AdityaBangar27/LeetCode/tree/master/0177-nth-highest-salary) |
 | [0182-duplicate-emails](https://github.com/AdityaBangar27/LeetCode/tree/master/0182-duplicate-emails) |
 | [0184-department-highest-salary](https://github.com/AdityaBangar27/LeetCode/tree/master/0184-department-highest-salary) |
+## Stack
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/AdityaBangar27/LeetCode/tree/master/2390-removing-stars-from-a-string) |
+## Simulation
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/AdityaBangar27/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
