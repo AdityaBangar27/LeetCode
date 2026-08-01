@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AdityaBangar27/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/AdityaBangar27/LeetCode/tree/master/0268-missing-number) |
 | [0643-maximum-average-subarray-i](https://github.com/AdityaBangar27/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/AdityaBangar27/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/AdityaBangar27/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AdityaBangar27/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Hash Table
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AdityaBangar27/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AdityaBangar27/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/AdityaBangar27/LeetCode/tree/master/0268-missing-number) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/AdityaBangar27/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Divide and Conquer
 |  |
 | ------- |
