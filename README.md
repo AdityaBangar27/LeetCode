@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/AdityaBangar27/LeetCode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AdityaBangar27/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/AdityaBangar27/LeetCode/tree/master/0268-missing-number) |
+| [0503-next-greater-element-ii](https://github.com/AdityaBangar27/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/AdityaBangar27/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/AdityaBangar27/LeetCode/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/AdityaBangar27/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AdityaBangar27/LeetCode/tree/master/0020-valid-parentheses) |
+| [0503-next-greater-element-ii](https://github.com/AdityaBangar27/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [2390-removing-stars-from-a-string](https://github.com/AdityaBangar27/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
@@ -137,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0724-find-pivot-index](https://github.com/AdityaBangar27/LeetCode/tree/master/0724-find-pivot-index) |
 | [2485-find-the-pivot-integer](https://github.com/AdityaBangar27/LeetCode/tree/master/2485-find-the-pivot-integer) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/AdityaBangar27/LeetCode/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
