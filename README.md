@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/AdityaBangar27/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/AdityaBangar27/LeetCode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AdityaBangar27/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0234-palindrome-linked-list](https://github.com/AdityaBangar27/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/AdityaBangar27/LeetCode/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/AdityaBangar27/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/AdityaBangar27/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/AdityaBangar27/LeetCode/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AdityaBangar27/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0234-palindrome-linked-list](https://github.com/AdityaBangar27/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/AdityaBangar27/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [2390-removing-stars-from-a-string](https://github.com/AdityaBangar27/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
@@ -166,8 +168,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AdityaBangar27/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0206-reverse-linked-list](https://github.com/AdityaBangar27/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/AdityaBangar27/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/AdityaBangar27/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/AdityaBangar27/LeetCode/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
