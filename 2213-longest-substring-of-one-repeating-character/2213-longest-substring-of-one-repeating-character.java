@@ -1,118 +1,72 @@
 class Solution {
-
-    class Node {
-        int l, r;
-        int leftMax, rightMax, max;
-
-        Node(int l, int r) {
-            this.l = l;
-            this.r = r;
-            this.leftMax = 1;
-            this.rightMax = 1;
-            this.max = 1;
-        }
-    }
-
-    Node[] tree;
+    int[] pre, suf, best;
     char[] s;
 
-    public int[] longestRepeating(
-        String str,
-        String queryCharacters,
-        int[] queryIndices
-    ) {
-
+    public int[] longestRepeating(String str, String qc, int[] qi) {
         s = str.toCharArray();
         int n = s.length;
 
-        tree = new Node[4 * n];
+        pre = new int[4 * n];
+        suf = new int[4 * n];
+        best = new int[4 * n];
 
         build(1, 0, n - 1);
 
-        int[] ans = new int[queryIndices.length];
+        int[] ans = new int[qi.length];
 
-        for (int i = 0; i < queryIndices.length; i++) {
-
-            int index = queryIndices[i];
-            char ch = queryCharacters.charAt(i);
-
-            s[index] = ch;
-
-            update(1, 0, n - 1, index);
-
-            ans[i] = tree[1].max;
+        for (int i = 0; i < qi.length; i++) {
+            s[qi[i]] = qc.charAt(i);
+            update(1, 0, n - 1, qi[i]);
+            ans[i] = best[1];
         }
 
         return ans;
     }
 
-    void build(int node, int l, int r) {
-
-        tree[node] = new Node(l, r);
-
+    void build(int p, int l, int r) {
         if (l == r) {
+            pre[p] = suf[p] = best[p] = 1;
             return;
         }
 
-        int mid = (l + r) / 2;
-
-        build(node * 2, l, mid);
-        build(node * 2 + 1, mid + 1, r);
-
-        merge(node);
+        int m = (l + r) / 2;
+        build(p * 2, l, m);
+        build(p * 2 + 1, m + 1, r);
+        merge(p, l, r);
     }
 
-    void update(int node, int l, int r, int index) {
-
+    void update(int p, int l, int r, int idx) {
         if (l == r) {
-            tree[node].leftMax = 1;
-            tree[node].rightMax = 1;
-            tree[node].max = 1;
+            pre[p] = suf[p] = best[p] = 1;
             return;
         }
 
-        int mid = (l + r) / 2;
+        int m = (l + r) / 2;
 
-        if (index <= mid) {
-            update(node * 2, l, mid, index);
-        } else {
-            update(node * 2 + 1, mid + 1, r, index);
-        }
+        if (idx <= m)
+            update(p * 2, l, m, idx);
+        else
+            update(p * 2 + 1, m + 1, r, idx);
 
-        merge(node);
+        merge(p, l, r);
     }
 
-    void merge(int node) {
+    void merge(int p, int l, int r) {
+        int a = p * 2, b = p * 2 + 1;
+        int m = (l + r) / 2;
 
-        Node left = tree[node * 2];
-        Node right = tree[node * 2 + 1];
-        Node curr = tree[node];
+        pre[p] = pre[a];
+        suf[p] = suf[b];
+        best[p] = Math.max(best[a], best[b]);
 
-        curr.leftMax = left.leftMax;
-        curr.rightMax = right.rightMax;
+        if (s[m] == s[m + 1]) {
+            best[p] = Math.max(best[p], suf[a] + pre[b]);
 
-        curr.max = Math.max(left.max, right.max);
+            if (pre[a] == m - l + 1)
+                pre[p] += pre[b];
 
-        // Check if characters at the boundary are same
-        if (s[left.r] == s[right.l]) {
-
-            // Join left suffix + right prefix
-            curr.max = Math.max(
-                curr.max,
-                left.rightMax + right.leftMax
-            );
-
-            // Entire left part has same character
-            if (left.leftMax == left.r - left.l + 1) {
-                curr.leftMax =
-                    left.leftMax + right.leftMax;
-            }
-
-            // Entire right part has same character
-            if (right.rightMax == right.r - right.l + 1) {
-                curr.rightMax =
-                    right.rightMax + left.rightMax;
-            }
+            if (suf[b] == r - m)
+                suf[p] += suf[a];
         }
     }
 }
