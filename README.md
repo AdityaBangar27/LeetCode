@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/AdityaBangar27/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AdityaBangar27/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/AdityaBangar27/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [2029-stone-game-ix](https://github.com/AdityaBangar27/LeetCode/tree/master/2029-stone-game-ix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AdityaBangar27/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/AdityaBangar27/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/AdityaBangar27/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/AdityaBangar27/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/AdityaBangar27/LeetCode/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/AdityaBangar27/LeetCode/tree/master/0268-missing-number) |
+| [2029-stone-game-ix](https://github.com/AdityaBangar27/LeetCode/tree/master/2029-stone-game-ix) |
 | [2485-find-the-pivot-integer](https://github.com/AdityaBangar27/LeetCode/tree/master/2485-find-the-pivot-integer) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/AdityaBangar27/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Binary Search
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/AdityaBangar27/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [2029-stone-game-ix](https://github.com/AdityaBangar27/LeetCode/tree/master/2029-stone-game-ix) |
 ## Trie
 |  |
 | ------- |
@@ -151,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/AdityaBangar27/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [2029-stone-game-ix](https://github.com/AdityaBangar27/LeetCode/tree/master/2029-stone-game-ix) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/AdityaBangar27/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Database
 |  |
@@ -234,4 +238,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/AdityaBangar27/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
+## Minimax
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/AdityaBangar27/LeetCode/tree/master/2029-stone-game-ix) |
+## Game Theory
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/AdityaBangar27/LeetCode/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/AdityaBangar27/LeetCode/tree/master/2029-stone-game-ix) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/AdityaBangar27/LeetCode/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
