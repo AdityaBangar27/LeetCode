@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/AdityaBangar27/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/AdityaBangar27/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AdityaBangar27/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1563-stone-game-v](https://github.com/AdityaBangar27/LeetCode/tree/master/1563-stone-game-v) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/AdityaBangar27/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2029-stone-game-ix](https://github.com/AdityaBangar27/LeetCode/tree/master/2029-stone-game-ix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AdityaBangar27/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/AdityaBangar27/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/AdityaBangar27/LeetCode/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/AdityaBangar27/LeetCode/tree/master/0268-missing-number) |
+| [1563-stone-game-v](https://github.com/AdityaBangar27/LeetCode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/AdityaBangar27/LeetCode/tree/master/2029-stone-game-ix) |
 | [2485-find-the-pivot-integer](https://github.com/AdityaBangar27/LeetCode/tree/master/2485-find-the-pivot-integer) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/AdityaBangar27/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/AdityaBangar27/LeetCode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/AdityaBangar27/LeetCode/tree/master/0118-pascals-triangle) |
+| [1563-stone-game-v](https://github.com/AdityaBangar27/LeetCode/tree/master/1563-stone-game-v) |
 ## Sliding Window
 |  |
 | ------- |
@@ -251,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [1563-stone-game-v](https://github.com/AdityaBangar27/LeetCode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/AdityaBangar27/LeetCode/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
