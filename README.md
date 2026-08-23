@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/AdityaBangar27/LeetCode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/AdityaBangar27/LeetCode/tree/master/0509-fibonacci-number) |
 | [1563-stone-game-v](https://github.com/AdityaBangar27/LeetCode/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/AdityaBangar27/LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/AdityaBangar27/LeetCode/tree/master/2029-stone-game-ix) |
 | [2485-find-the-pivot-integer](https://github.com/AdityaBangar27/LeetCode/tree/master/2485-find-the-pivot-integer) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/AdityaBangar27/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/AdityaBangar27/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/AdityaBangar27/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [1768-merge-strings-alternately](https://github.com/AdityaBangar27/LeetCode/tree/master/1768-merge-strings-alternately) |
+| [1927-sum-game](https://github.com/AdityaBangar27/LeetCode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/AdityaBangar27/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2390-removing-stars-from-a-string](https://github.com/AdityaBangar27/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AdityaBangar27/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/AdityaBangar27/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [1386-cinema-seat-allocation](https://github.com/AdityaBangar27/LeetCode/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/AdityaBangar27/LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/AdityaBangar27/LeetCode/tree/master/2029-stone-game-ix) |
 ## Trie
 |  |
@@ -269,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1563-stone-game-v](https://github.com/AdityaBangar27/LeetCode/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/AdityaBangar27/LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/AdityaBangar27/LeetCode/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
