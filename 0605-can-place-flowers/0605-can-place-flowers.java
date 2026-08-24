@@ -8,11 +8,7 @@ class Solution {
         for (int i = 0; i < arr.length; i++) {
             if (arr[i] == 0) {
 
-                boolean leftEmpty = (i==0 || arr[i - 1] == 0);
-
-                boolean rightEmpty = (i==arr.length-1 || arr[i + 1] == 0);
-
-                if (leftEmpty && rightEmpty) {
+                if ((i==0 || arr[i - 1] == 0) && (i==arr.length-1 || arr[i + 1] == 0)) {
                     arr[i] = 1;
                     n--;
 
