@@ -16,6 +16,7 @@ class Solution {
         //         x--;
         //     }
         // }
+        // for the first element
         // while(j>=0){
         //     nums1[x] = nums2[j];
         //     j--;
