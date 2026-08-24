@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/AdityaBangar27/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AdityaBangar27/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1563-stone-game-v](https://github.com/AdityaBangar27/LeetCode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/AdityaBangar27/LeetCode/tree/master/1872-stone-game-viii) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/AdityaBangar27/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2029-stone-game-ix](https://github.com/AdityaBangar27/LeetCode/tree/master/2029-stone-game-ix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AdityaBangar27/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/AdityaBangar27/LeetCode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/AdityaBangar27/LeetCode/tree/master/0509-fibonacci-number) |
 | [1563-stone-game-v](https://github.com/AdityaBangar27/LeetCode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/AdityaBangar27/LeetCode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/AdityaBangar27/LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/AdityaBangar27/LeetCode/tree/master/2029-stone-game-ix) |
 | [2485-find-the-pivot-integer](https://github.com/AdityaBangar27/LeetCode/tree/master/2485-find-the-pivot-integer) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/AdityaBangar27/LeetCode/tree/master/0118-pascals-triangle) |
 | [0509-fibonacci-number](https://github.com/AdityaBangar27/LeetCode/tree/master/0509-fibonacci-number) |
 | [1563-stone-game-v](https://github.com/AdityaBangar27/LeetCode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/AdityaBangar27/LeetCode/tree/master/1872-stone-game-viii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -209,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/AdityaBangar27/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/AdityaBangar27/LeetCode/tree/master/0724-find-pivot-index) |
+| [1872-stone-game-viii](https://github.com/AdityaBangar27/LeetCode/tree/master/1872-stone-game-viii) |
 | [2485-find-the-pivot-integer](https://github.com/AdityaBangar27/LeetCode/tree/master/2485-find-the-pivot-integer) |
 ## Monotonic Stack
 |  |
@@ -268,11 +272,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/AdityaBangar27/LeetCode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/AdityaBangar27/LeetCode/tree/master/2029-stone-game-ix) |
 ## Game Theory
 |  |
 | ------- |
 | [1563-stone-game-v](https://github.com/AdityaBangar27/LeetCode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/AdityaBangar27/LeetCode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/AdityaBangar27/LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/AdityaBangar27/LeetCode/tree/master/2029-stone-game-ix) |
 ## Nim Game
@@ -282,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/AdityaBangar27/LeetCode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/AdityaBangar27/LeetCode/tree/master/2029-stone-game-ix) |
 ## Combinatorics
 |  |
