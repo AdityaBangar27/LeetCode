@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/AdityaBangar27/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/AdityaBangar27/LeetCode/tree/master/0268-missing-number) |
 | [0503-next-greater-element-ii](https://github.com/AdityaBangar27/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0605-can-place-flowers](https://github.com/AdityaBangar27/LeetCode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/AdityaBangar27/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/AdityaBangar27/LeetCode/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/AdityaBangar27/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0605-can-place-flowers](https://github.com/AdityaBangar27/LeetCode/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/AdityaBangar27/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [1386-cinema-seat-allocation](https://github.com/AdityaBangar27/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/AdityaBangar27/LeetCode/tree/master/1927-sum-game) |
