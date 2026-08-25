@@ -9,7 +9,6 @@ class Solution {
             ans[j++] = nums[i];       
             ans[j++] = nums[i + n];   
             }
-
         return ans;
     }
 }
