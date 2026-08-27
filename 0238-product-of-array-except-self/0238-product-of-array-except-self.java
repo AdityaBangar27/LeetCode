@@ -32,27 +32,40 @@ class Solution {
 
         // for this wee have to use Prefix suffix
 
-        int prefix[] = new int[nums.length];
-        int suffix[] = new int[nums.length];
-        int ans[] = new int[nums.length];
-        int n = nums.length;
+        // int prefix[] = new int[nums.length];
+        // int suffix[] = new int[nums.length];
+        // int ans[] = new int[nums.length];
+        // int n = nums.length;
 
-        for(int i = 0; i < nums.length; i++){
-            if(i==0){
-                prefix[i] = 1;
-            }else{
-                prefix[i] = nums[i-1] * prefix[i-1];
-            }
+        // for(int i = 0; i < nums.length; i++){    //But this is not optimised it use O(2n) space complexity
+        //     if(i==0){                            // We have to solve this in O(1)
+        //         prefix[i] = 1;
+        //     }else{
+        //         prefix[i] = nums[i-1] * prefix[i-1];
+        //     }
+        // }
+        // for(int i = nums.length-1; i >= 0; i--){
+        //     if(i==nums.length-1){
+        //         suffix[i] = 1;
+        //     }else{
+        //         suffix[i] = nums[i+1] * suffix[i+1];
+        //     }
+        // }
+        // for(int i = 0; i < n; i++){
+        //     ans[i] = prefix[i] * suffix[i];
+        // }
+        // return ans;
+
+        int n = nums.length;
+        int[] ans = new int[n];
+        ans[0] = 1;
+        for (int i = 1; i < n; i++) {
+            ans[i] = ans[i - 1] * nums[i - 1];
         }
-        for(int i = nums.length-1; i >= 0; i--){
-            if(i==nums.length-1){
-                suffix[i] = 1;
-            }else{
-                suffix[i] = nums[i+1] * suffix[i+1];
-            }
-        }
-        for(int i = 0; i < n; i++){
-            ans[i] = prefix[i] * suffix[i];
+        int suffix = 1;
+        for (int i = n - 1; i >= 0; i--) {
+            ans[i] = ans[i] * suffix;
+            suffix = suffix * nums[i];
         }
         return ans;
     }
