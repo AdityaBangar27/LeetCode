@@ -34,10 +34,5 @@ class Solution {
     //     }
 
     //    return ans;
-
-        // int ans[] = new int[2*n];
-        // for(int i = 0; i < n; i++){
-        //     ans[i]
-        // }
     }
 }
