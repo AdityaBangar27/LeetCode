@@ -23,13 +23,42 @@ class Solution {
         // }
         // return true;
 
-        int upper = 0;
+        // int upper = 0;
 
-        for (char c : word.toCharArray()) {
-            if (Character.isUpperCase(c)) upper++;
+        // for (char c : word.toCharArray()) {
+        //     if (Character.isUpperCase(c)) upper++;
+        // }
+
+        // return upper == 0 || upper == word.length() ||
+        //        (upper == 1 && Character.isUpperCase(word.charAt(0)));
+
+        // All uppercase
+        boolean allUpper = true;
+        for (int i = 0; i < word.length(); i++) {
+            if (Character.isLowerCase(word.charAt(i))) {
+                allUpper = false;
+                break;
+            }
         }
 
-        return upper == 0 || upper == word.length() ||
-               (upper == 1 && Character.isUpperCase(word.charAt(0)));
+        // All lowercase
+        boolean allLower = true;
+        for (int i = 0; i < word.length(); i++) {
+            if (Character.isUpperCase(word.charAt(i))) {
+                allLower = false;
+                break;
+            }
+        }
+
+        // First uppercase, rest lowercase
+        boolean firstUpper = Character.isUpperCase(word.charAt(0));
+        for (int i = 1; i < word.length(); i++) {
+            if (Character.isUpperCase(word.charAt(i))) {
+                firstUpper = false;
+                break;
+            }
+        }
+
+        return allUpper || allLower || firstUpper;
     }
 }
