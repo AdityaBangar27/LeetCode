@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/AdityaBangar27/LeetCode/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/AdityaBangar27/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0905-sort-array-by-parity](https://github.com/AdityaBangar27/LeetCode/tree/master/0905-sort-array-by-parity) |
+| [0912-sort-an-array](https://github.com/AdityaBangar27/LeetCode/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/AdityaBangar27/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/AdityaBangar27/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AdityaBangar27/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AdityaBangar27/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/AdityaBangar27/LeetCode/tree/master/0053-maximum-subarray) |
+| [0912-sort-an-array](https://github.com/AdityaBangar27/LeetCode/tree/master/0912-sort-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/AdityaBangar27/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/AdityaBangar27/LeetCode/tree/master/0268-missing-number) |
 | [0905-sort-array-by-parity](https://github.com/AdityaBangar27/LeetCode/tree/master/0905-sort-array-by-parity) |
+| [0912-sort-an-array](https://github.com/AdityaBangar27/LeetCode/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/AdityaBangar27/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/AdityaBangar27/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AdityaBangar27/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -202,11 +205,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/AdityaBangar27/LeetCode/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AdityaBangar27/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Counting Sort
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/AdityaBangar27/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0912-sort-an-array](https://github.com/AdityaBangar27/LeetCode/tree/master/0912-sort-an-array) |
 | [2029-stone-game-ix](https://github.com/AdityaBangar27/LeetCode/tree/master/2029-stone-game-ix) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/AdityaBangar27/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Database
@@ -344,4 +349,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/AdityaBangar27/LeetCode/tree/master/1672-richest-customer-wealth) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/AdityaBangar27/LeetCode/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/AdityaBangar27/LeetCode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/AdityaBangar27/LeetCode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
