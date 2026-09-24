@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/AdityaBangar27/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/AdityaBangar27/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/AdityaBangar27/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/AdityaBangar27/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1386-cinema-seat-allocation](https://github.com/AdityaBangar27/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/AdityaBangar27/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AdityaBangar27/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/AdityaBangar27/LeetCode/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/AdityaBangar27/LeetCode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/AdityaBangar27/LeetCode/tree/master/0509-fibonacci-number) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/AdityaBangar27/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/AdityaBangar27/LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1563-stone-game-v](https://github.com/AdityaBangar27/LeetCode/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/AdityaBangar27/LeetCode/tree/master/1872-stone-game-viii) |
