@@ -23,17 +23,29 @@ class Solution {
         // }
         // return false;
 
-        int slow = 0;
-        int fast = 1;
-        Arrays.sort(nums);
+        // int slow = 0;
+        // int fast = 1;
+        // Arrays.sort(nums);
 
-        while(fast < nums.length){
-            if(nums[slow] == nums[fast]){
+        // while(fast < nums.length){
+        //     if(nums[slow] == nums[fast]){
+        //         return true;
+        //     }
+        //     fast++;
+        //     slow++;
+        // }
+        // return  false;
+
+         HashMap<Integer, Integer> map = new HashMap<>();
+
+        for (int i = 0; i < nums.length; i++) {
+            if (map.containsKey(nums[i])) {
                 return true;
             }
-            fast++;
-            slow++;
+
+            map.put(nums[i], i);
         }
-        return  false;
+
+        return false;
     }
 }
