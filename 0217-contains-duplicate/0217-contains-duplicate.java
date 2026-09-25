@@ -13,14 +13,27 @@ class Solution {
         // }
         // return false;
 
-        Set<Integer> set = new HashSet<>();
+        // Set<Integer> set = new HashSet<>();
 
-        for(int num : nums){
-            if(set.contains(num)){
+        // for(int num : nums){
+        //     if(set.contains(num)){
+        //         return true;
+        //     }
+        //     set.add(num);
+        // }
+        // return false;
+
+        int slow = 0;
+        int fast = 1;
+        Arrays.sort(nums);
+
+        while(fast < nums.length){
+            if(nums[slow] == nums[fast]){
                 return true;
             }
-            set.add(num);
+            fast++;
+            slow++;
         }
-        return false;
+        return  false;
     }
 }
