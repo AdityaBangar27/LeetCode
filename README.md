@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/AdityaBangar27/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/AdityaBangar27/LeetCode/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/AdityaBangar27/LeetCode/tree/master/0771-jewels-and-stones) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AdityaBangar27/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/AdityaBangar27/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [1927-sum-game](https://github.com/AdityaBangar27/LeetCode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/AdityaBangar27/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/AdityaBangar27/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/AdityaBangar27/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/AdityaBangar27/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AdityaBangar27/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/AdityaBangar27/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AdityaBangar27/LeetCode/tree/master/0020-valid-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AdityaBangar27/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
