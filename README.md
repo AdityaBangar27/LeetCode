@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/AdityaBangar27/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AdityaBangar27/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/AdityaBangar27/LeetCode/tree/master/0012-integer-to-roman) |
 | [0041-first-missing-positive](https://github.com/AdityaBangar27/LeetCode/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/AdityaBangar27/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AdityaBangar27/LeetCode/tree/master/0217-contains-duplicate) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/AdityaBangar27/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/AdityaBangar27/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/AdityaBangar27/LeetCode/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/AdityaBangar27/LeetCode/tree/master/0012-integer-to-roman) |
 | [0268-missing-number](https://github.com/AdityaBangar27/LeetCode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/AdityaBangar27/LeetCode/tree/master/0509-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AdityaBangar27/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AdityaBangar27/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/AdityaBangar27/LeetCode/tree/master/0008-string-to-integer-atoi) |
+| [0012-integer-to-roman](https://github.com/AdityaBangar27/LeetCode/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/AdityaBangar27/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/AdityaBangar27/LeetCode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/AdityaBangar27/LeetCode/tree/master/0032-longest-valid-parentheses) |
