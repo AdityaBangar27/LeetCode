@@ -21,10 +21,10 @@ class Solution {
             if (s.charAt(i) != s.charAt(j)) {
                 return palindromeHelper(i + 1, j, s)
                     || palindromeHelper(i, j - 1, s);
+            }else{
+                i++;
+                j--;
             }
-
-            i++;
-            j--;
         }
 
         return true;
