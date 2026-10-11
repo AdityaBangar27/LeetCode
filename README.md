@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/AdityaBangar27/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/AdityaBangar27/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AdityaBangar27/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/AdityaBangar27/LeetCode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/AdityaBangar27/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## String
 |  |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/AdityaBangar27/LeetCode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/AdityaBangar27/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2390-removing-stars-from-a-string](https://github.com/AdityaBangar27/LeetCode/tree/master/2390-removing-stars-from-a-string) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/AdityaBangar27/LeetCode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AdityaBangar27/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/AdityaBangar27/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Sorting
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/AdityaBangar27/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/AdityaBangar27/LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/AdityaBangar27/LeetCode/tree/master/2029-stone-game-ix) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/AdityaBangar27/LeetCode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2706-buy-two-chocolates](https://github.com/AdityaBangar27/LeetCode/tree/master/2706-buy-two-chocolates) |
 ## Trie
 |  |
