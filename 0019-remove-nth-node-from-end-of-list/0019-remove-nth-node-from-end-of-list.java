@@ -18,7 +18,7 @@ class Solution {
             size++;
         }
 
-        if(size == n){
+        if(size == n){   //only one node in list
             head = head.next;
             return head;
         }
