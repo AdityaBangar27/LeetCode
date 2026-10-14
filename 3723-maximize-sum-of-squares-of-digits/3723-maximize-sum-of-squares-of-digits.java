@@ -1,5 +1,8 @@
 class Solution {
     public String maxSumOfSquares(int num, int sum) {
+
+        // Greedy approch : A Greedy Algorithm solves a problem by choosing the best option available at the current step, hoping that these local best choices will produce the best overall answer. Make the best decision right now, without reconsidering previous decisions.
+
         if(sum > 9*num){
             return "";
         }
