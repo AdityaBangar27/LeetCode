@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3903-smallest-stable-index-i](https://github.com/AdityaBangar27/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/AdityaBangar27/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/AdityaBangar27/LeetCode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/AdityaBangar27/LeetCode/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Hash Table
 |  |
 | ------- |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/AdityaBangar27/LeetCode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/AdityaBangar27/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/AdityaBangar27/LeetCode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/AdityaBangar27/LeetCode/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## String
 |  |
 | ------- |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/AdityaBangar27/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/AdityaBangar27/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/AdityaBangar27/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/AdityaBangar27/LeetCode/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Greedy
 |  |
 | ------- |
@@ -225,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2706-buy-two-chocolates](https://github.com/AdityaBangar27/LeetCode/tree/master/2706-buy-two-chocolates) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/AdityaBangar27/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/AdityaBangar27/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/AdityaBangar27/LeetCode/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Trie
 |  |
 | ------- |
