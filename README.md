@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3903-smallest-stable-index-i](https://github.com/AdityaBangar27/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/AdityaBangar27/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/AdityaBangar27/LeetCode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
+| [3978-unique-middle-element](https://github.com/AdityaBangar27/LeetCode/tree/master/3978-unique-middle-element) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/AdityaBangar27/LeetCode/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Hash Table
 |  |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/AdityaBangar27/LeetCode/tree/master/2029-stone-game-ix) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/AdityaBangar27/LeetCode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/AdityaBangar27/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3978-unique-middle-element](https://github.com/AdityaBangar27/LeetCode/tree/master/3978-unique-middle-element) |
 ## Database
 |  |
 | ------- |
