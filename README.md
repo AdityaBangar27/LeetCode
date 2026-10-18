@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/AdityaBangar27/LeetCode/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/AdityaBangar27/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/AdityaBangar27/LeetCode/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/AdityaBangar27/LeetCode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/AdityaBangar27/LeetCode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/AdityaBangar27/LeetCode/tree/master/0509-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AdityaBangar27/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/AdityaBangar27/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AdityaBangar27/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/AdityaBangar27/LeetCode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/AdityaBangar27/LeetCode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AdityaBangar27/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/AdityaBangar27/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/AdityaBangar27/LeetCode/tree/master/0268-missing-number) |
@@ -492,4 +494,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AdityaBangar27/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/AdityaBangar27/LeetCode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
