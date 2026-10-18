@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/AdityaBangar27/LeetCode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/AdityaBangar27/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/AdityaBangar27/LeetCode/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/AdityaBangar27/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/AdityaBangar27/LeetCode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AdityaBangar27/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AdityaBangar27/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/AdityaBangar27/LeetCode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/AdityaBangar27/LeetCode/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/AdityaBangar27/LeetCode/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/AdityaBangar27/LeetCode/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/AdityaBangar27/LeetCode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/AdityaBangar27/LeetCode/tree/master/0509-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AdityaBangar27/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
