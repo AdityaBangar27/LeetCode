@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/AdityaBangar27/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1920-build-array-from-permutation](https://github.com/AdityaBangar27/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [2029-stone-game-ix](https://github.com/AdityaBangar27/LeetCode/tree/master/2029-stone-game-ix) |
+| [2090-k-radius-subarray-averages](https://github.com/AdityaBangar27/LeetCode/tree/master/2090-k-radius-subarray-averages) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AdityaBangar27/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/AdityaBangar27/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/AdityaBangar27/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/AdityaBangar27/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/AdityaBangar27/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/AdityaBangar27/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [2090-k-radius-subarray-averages](https://github.com/AdityaBangar27/LeetCode/tree/master/2090-k-radius-subarray-averages) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AdityaBangar27/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AdityaBangar27/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Bit Manipulation
