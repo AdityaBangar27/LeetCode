@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3903-smallest-stable-index-i](https://github.com/AdityaBangar27/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/AdityaBangar27/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/AdityaBangar27/LeetCode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/AdityaBangar27/LeetCode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [3978-unique-middle-element](https://github.com/AdityaBangar27/LeetCode/tree/master/3978-unique-middle-element) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/AdityaBangar27/LeetCode/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Hash Table
